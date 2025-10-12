@@ -1,6 +1,6 @@
 # 📧 Teachers' Email Directory
 
-A list of teacher contact emails for students at **University of Annaba**.
+A list of teacher contact emails for students at **University of Annaba**
 
 ---
 
@@ -36,4 +36,4 @@ A list of teacher contact emails for students at **University of Annaba**.
 
 ---
 
-> **Last updated:** October 2025
+> **Last updated:** 12 October 2025

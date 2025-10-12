@@ -1,9 +1,5 @@
 # 📧 Teachers' Email Directory
 
-A list of teacher contact emails for students at **University of Annaba**
-
-# 📧 Teachers' Email Directory
-
 A list of teacher contact emails for students at **University of Annaba**.
 
 ---

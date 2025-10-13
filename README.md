@@ -9,33 +9,31 @@ A list of teacher contact emails for students at **University of Annaba**
 | **Amrane** | `amraned@hotmail.com` |
 | **Babes** | `malikababes@yahoo.fr` |
 | **Benchalel** | `benchalel.amir@gmail.com` |
-| **Benali** | `abdelhakim.benali@univ-annaba.dz`<br>`a.hakim.benali@gmail.com` |
+| **Benali** | `abdelhakim.benali@univ-annaba.dz`<br><br>`a.hakim.benali@gmail.com` |
 | **Benmostefa** | `benmostefafatima@yahoo.fr` |
 | **Berrezzek** | `amira.berrezzek@univ-annaba.dz` |
-| **Bouhaouche** | `fz_nouri@yahoo.fr`<br>`fatma-zohra.nouri@univ-annaba.dz` |
+| **Bouhaouche** | `fz_nouri@yahoo.fr`<br><br>`fatma-zohra.nouri@univ-annaba.dz` |
 | **Boumaila** | `nboumaila@yahoo.fr` |
 | **Brahmia** | `brahmiasouhaira@yahoo.fr` |
-| **Chadli** | `assiachadli428@hotmail.com`<br>`assia.benghanem@univ-annaba.dz` |
-| **Chouia** | `sana.chouia@yahoo.fr`<br>`sana.chouia@univ-annaba.dz` |
-| **Debbah** | `amina.debbah@gmail.com`<br>`amina.debbah@univ-annaba.dz` |
+| **Chadli** | `assiachadli428@hotmail.com`<br><br>`assia.benghanem@univ-annaba.dz` |
+| **Chouia** | `sana.chouia@yahoo.fr`<br><br>`sana.chouia@univ-annaba.dz` |
+| **Debbah** | `amina.debbah@gmail.com`<br><br>`amina.debbah@univ-annaba.dz` |
 | **Debbache** | `f_debbeche@yahoo.fr` |
-| **Farah** | `nadir.farah@univ-annaba.dz`<br>`farah@labged.net` |
-| **Hakim** | `amira.hakim@hotmail.fr`<br>`amira.hakim@univ-annaba.dz` |
+| **Farah** | `nadir.farah@univ-annaba.dz`<br><br>`farah@labged.net` |
+| **Hakim** | `amira.hakim@hotmail.fr`<br><br>`amira.hakim@univ-annaba.dz` |
 | **Hamadache** | `bilelhamadache@gmail.com` |
 | **Hamissi** | `hamissi_sa@yahoo.fr` |
 | **Kahya** | `kahya.noudjoud@gmail.com` |
-| **Kherici** | `nada.kherici@gmail.com`<br>`nada.kherici@univ-annaba.dz` |
+| **Kherici** | `nada.kherici@gmail.com`<br><br>`nada.kherici@univ-annaba.dz` |
 | **Layachi** | `soumia_layachi@yahoo.fr` |
-| **Mahnane** | `lamia.mahnane@univ-annaba.dz`<br>`mahnane_lamia@yahoo.fr` |
+| **Mahnane** | `lamia.mahnane@univ-annaba.dz`<br><br>`mahnane_lamia@yahoo.fr` |
 | **Menghour** | `kamilia.manghour@univ-annaba.dz` |
 | **Messolhi** | `messolhi2006@yahoo.fr` |
-| **Rouabhia** | `c_rouabhia@yahoo.fr`<br>`chahrazed.rouabhia@univ-annaba.dz` |
+| **Rouabhia** | `c_rouabhia@yahoo.fr`<br><br>`chahrazed.rouabhia@univ-annaba.dz` |
 | **Semassel** | `imed-eddine.semassel@univ-annaba.dz` |
 | **Sobhi** | `sobhi_h@yahoo.com` |
-| **Taleb** | `nora.taleb@univ-annaba.dz`<br>`talebnr@hotmail.fr` |
+| **Taleb** | `nora.taleb@univ-annaba.dz`<br><br>`talebnr@hotmail.fr` |
 
 ---
 
 > **Last updated:** 13 October 2025
-
-

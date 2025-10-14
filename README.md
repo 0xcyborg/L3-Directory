@@ -12,7 +12,7 @@ A list of teacher contact emails for students at **University of Annaba**
 | **Benali** | `abdelhakim.benali@univ-annaba.dz`<br><br>`a.hakim.benali@gmail.com` |
 | **Benmostefa** | `benmostefafatima@yahoo.fr` |
 | **Berrezzek** | `amira.berrezzek@univ-annaba.dz` |
-| **Bouhaouche** | `fz_nouri@yahoo.fr`<br><br>`fatma-zohra.nouri@univ-annaba.dz` |
+| **Bouhaouche** | `salah.bouhouche@univ-annaba.dz` |
 | **Boumaila** | `nboumaila@yahoo.fr` |
 | **Brahmia** | `brahmiasouhaira@yahoo.fr` |
 | **Chadli** | `assiachadli428@hotmail.com`<br><br>`assia.benghanem@univ-annaba.dz` |
@@ -36,4 +36,4 @@ A list of teacher contact emails for students at **University of Annaba**
 
 ---
 
-> **Last updated:** 13 October 2025
+> **Last updated:** 14 October 2025

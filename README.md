@@ -1,6 +1,6 @@
 # 📧 Teachers' Email Directory
 
-A list of teacher contact emails for students at **University of Annaba**
+A directory of contact emails for **L3 S5 Computer Science (LMD)** teachers for the **2025/2026** academic year at the **University of Annaba**.
 
 ---
 
@@ -37,3 +37,4 @@ A list of teacher contact emails for students at **University of Annaba**
 ---
 
 > **Last updated:** 15 October 2025
+
